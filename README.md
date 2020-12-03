@@ -1,5 +1,4 @@
 # Todo_List
-
 Création d'une TodoList :
 * ajout / suppression d'une Todo.
 * tries des todos : All, complète, incomplete.
